@@ -1,0 +1,8 @@
+
+@import "tailwindcss";
+@import "animate.css/animate.min.css";
+@layer components {
+  .main-container {
+    @apply max-w-7xl px-5 mx-auto;
+  }
+}
